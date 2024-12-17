@@ -1,0 +1,6 @@
+.idea
+.history
+.vscode
+.DS_Store
+*/.DS_STORE
+.env
